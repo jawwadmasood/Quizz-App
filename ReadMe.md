@@ -4,6 +4,8 @@ Here&apos;s what it does!
 
 It&apos;s a single-page trivia quiz app.
 
+First..
+npm install 
 ---
 
 1. The app will first start the camera and user will capture the photo. If the camera detects the face, it will show the button to start the quiz otherwise show the error, no face found!
@@ -22,4 +24,4 @@ It&apos;s a single-page trivia quiz app.
 
 ---
 
-**Muhammad Ovi**
+**Jawwad Masood**
